@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sohukia
-- 👀 I’m interested in programming (lmao) and music
-- 🌱 I’m currently learning Dart with Flutter to create my own mobile app
+- 👀 I’m interested in programming (lmao) videogames, and music
+- 🌱 I’m currently learning C++ with Unreal Engine (don't do that you fool)
