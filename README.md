@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @sohukia
-- 👀 I’m interested in programming (lmao), videogames and music
-- 🌱 I’m currently learning C++ with Unreal Engine (don't do that you fool)
+Open the source wherever you can.
